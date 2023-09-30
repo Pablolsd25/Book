@@ -1,0 +1,247 @@
+.index {
+  background-color: #011034;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.index .div {
+  background-color: #011034;
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.index .overlap {
+  height: 588px;
+  left: 11px;
+  position: absolute;
+  top: 140px;
+  width: 636px;
+}
+
+.index .img {
+  height: 489px;
+  left: 70px;
+  position: absolute;
+  top: 34px;
+  width: 489px;
+}
+
+.index .capa {
+  height: 460px;
+  left: 156px;
+  position: absolute;
+  top: 55px;
+  width: 318px;
+}
+
+.index .XMLID {
+  height: 81px;
+  left: 274px;
+  position: absolute;
+  top: 507px;
+  width: 81px;
+}
+
+.index .react-logo {
+  height: 107px;
+  left: 374px;
+  position: absolute;
+  top: 0;
+  width: 107px;
+}
+
+.index .postgre-sql-logo {
+  height: 127px;
+  left: 33px;
+  position: absolute;
+  top: 50px;
+  width: 127px;
+}
+
+.index .vector {
+  height: 95px;
+  left: 481px;
+  position: absolute;
+  top: 77px;
+  width: 155px;
+}
+
+.index .vector-2 {
+  height: 46px;
+  left: 151px;
+  position: absolute;
+  top: 11px;
+  width: 204px;
+}
+
+.index .next-logo {
+  height: 101px;
+  left: 0;
+  position: absolute;
+  top: 214px;
+  width: 101px;
+}
+
+.index .XMLID-2 {
+  height: 127px;
+  left: 47px;
+  position: absolute;
+  top: 343px;
+  width: 90px;
+}
+
+.index .XMLID-3 {
+  height: 129px;
+  left: 151px;
+  position: absolute;
+  top: 439px;
+  width: 91px;
+}
+
+.index .git-logo {
+  height: 111px;
+  left: 390px;
+  position: absolute;
+  top: 457px;
+  width: 111px;
+}
+
+.index .github-logo {
+  height: 97px;
+  left: 492px;
+  position: absolute;
+  top: 361px;
+  width: 97px;
+}
+
+.index .figma-logo {
+  height: 104px;
+  left: 537px;
+  position: absolute;
+  top: 216px;
+  width: 69px;
+}
+
+.index .soy-un-apasionado {
+  height: 252px;
+  left: 677px;
+  position: absolute;
+  top: 352px;
+  width: 717px;
+}
+
+.index .bienvenido {
+  height: 73px;
+  left: 683px;
+  position: absolute;
+  top: 225px;
+  width: 439px;
+}
+
+.index .frame {
+  height: 194px;
+  left: 148px;
+  position: absolute;
+  top: 770px;
+  width: 357px;
+}
+
+.index .frame-2 {
+  height: 200px;
+  left: 549px;
+  position: absolute;
+  top: 770px;
+  width: 373px;
+}
+
+.index .frame-3 {
+  height: 204px;
+  left: 966px;
+  position: absolute;
+  top: 766px;
+  width: 340px;
+}
+
+.index .group {
+  height: 94px;
+  left: 0;
+  position: absolute;
+  top: -3px;
+  width: 1440px;
+}
+
+.index .overlap-group {
+  height: 100px;
+  position: relative;
+}
+
+.index .rectangle {
+  height: 97px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 1440px;
+}
+
+.index .frame-4 {
+  height: 64px;
+  left: 66px;
+  position: absolute;
+  top: 19px;
+  width: 386px;
+}
+
+.index .component-2 {
+  height: 48px !important;
+  left: 1285px !important;
+  position: absolute !important;
+  top: 23px !important;
+  width: 58px !important;
+}
+
+.index .component-instance {
+  height: 56px !important;
+  width: 66px !important;
+}
+
+.index .component-2-instance {
+  height: 47px !important;
+  left: 1343px !important;
+  position: absolute !important;
+  top: 24px !important;
+  width: 64px !important;
+}
+
+.index .design-component-instance-node {
+  height: 55px !important;
+  width: 72px !important;
+}
+
+.index .component-3 {
+  left: 1215px !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.index .estancias-instance {
+  border-radius: 50px !important;
+  box-shadow: inset 0px 4px 4px #00000040 !important;
+  left: 819px !important;
+  position: absolute !important;
+  top: 625px !important;
+  width: 302px !important;
+}
+
+.index .estancias-2 {
+  font-size: 36px !important;
+  white-space: unset !important;
+}
+
+.index .estancias-3 {
+  background-color: #02c9af !important;
+  border-radius: 29px !important;
+  flex: 0 0 auto !important;
+}

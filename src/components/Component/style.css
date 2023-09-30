@@ -1,0 +1,45 @@
+.component {
+  position: relative;
+}
+
+.component.frame-13 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 10px;
+  padding: 10px;
+}
+
+.component.git-hub {
+  height: 78px;
+  width: 86px;
+}
+
+.component.mail {
+  height: 71px;
+  width: 82px;
+}
+
+.component.frame-13 .mail-2 {
+  height: 82px;
+  margin-bottom: -8px;
+  margin-left: -4px;
+  margin-right: -4px;
+  position: relative;
+  width: 58px;
+}
+
+.component.git-hub .mail-2 {
+  height: 86px;
+  left: -4px;
+  position: absolute;
+  top: 0;
+  width: 94px;
+}
+
+.component.mail .mail-2 {
+  height: 79px;
+  left: -4px;
+  position: absolute;
+  top: 0;
+  width: 90px;
+}

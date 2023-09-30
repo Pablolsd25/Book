@@ -1,0 +1,29 @@
+.estancias {
+  align-items: flex-start;
+  position: relative;
+}
+
+.estancias .button-wrapper {
+  align-items: flex-start;
+  display: flex;
+  position: relative;
+  width: 71px;
+}
+
+.estancias .button-instance {
+  background-color: #0019ff96 !important;
+  flex: 0 0 auto !important;
+}
+
+.estancias.deseable {
+  display: inline-flex;
+}
+
+.estancias.hover {
+  display: inline-flex;
+}
+
+.estancias.default {
+  display: flex;
+  width: 71px;
+}
