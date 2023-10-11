@@ -6,7 +6,7 @@ Please share your feedback here: https://form.asana.com/?k=uvp-HPgd3_hyoXRBw1IcN
 import PropTypes from "prop-types";
 import React from "react";
 import "./style.css";
-
+//Prueba
 export const Button = ({ className, divClassName, text = "Button" }) => {
   return (
     <button className={`button ${className}`}>
